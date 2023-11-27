@@ -17,10 +17,10 @@
 
 # ステータス
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinonomeNetwork&theme=dark&layout=compact" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinonomeNetwork&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=SinonomeNetwork&show_icons=true&theme=dark" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=SinonomeNetwork&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinonomeNetwork&theme=github_dark">
