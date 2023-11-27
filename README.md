@@ -3,6 +3,9 @@
 
 不定期ですが「東雲ゆっくり実況チャンネル」というチャンネルを運営しております。
 良かったらみていってね♪
+
+最近はDiscordのBotを作り替えたりしてます [discord.js v14に更新中]
+
 <br><br><br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/SinonomeNetwork?label=GitHub%20Followers&style=flat&logo=GitHub&color=blue">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/manago0403_?label=Twitter%20%40manago0403_&style=flat&logo=Twitter&logoColor=%231D9BF0&color=green">
